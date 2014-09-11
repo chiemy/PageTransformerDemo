@@ -22,6 +22,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity 
+            android:name=".Translate1Activity"
+            ></activity>
+        <activity 
+            android:name=".Translate2Activity"
+            ></activity>
     </application>
 
 </manifest>
